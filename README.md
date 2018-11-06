@@ -1,2 +1,2 @@
 # Learn-to-code
-Fun problems solved from Leetcode
+Fun problems solved from LeetCode
