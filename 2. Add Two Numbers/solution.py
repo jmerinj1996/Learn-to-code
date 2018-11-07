@@ -1,4 +1,11 @@
-  carry = 0
+class Solution:
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+        carry = 0
         root = l3 = ListNode(0)
         while l1 or l2 or carry:
             if l1:
